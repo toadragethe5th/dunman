@@ -31,6 +31,7 @@ int main(int argc, char *argv[])
 		/* moneyparams(char *args[]); */
 	default:
 		printf("Error: Illegal option. Exiting.\n"); 
+	}
 
 	/* Add spell options */
 	return 1;
